@@ -10,19 +10,47 @@ final GoRouter router = GoRouter(
     ),
     GoRoute(
       path: '/aboutdialog',
-      builder: (_, __) => WidgetAboutDialog01(),
+      builder: (_, __) => Widget001(),
     ),
     GoRoute(
       path: '/aboutlisttile',
-      builder: (_, __) => WidgetAboutListTile02(),
+      builder: (_, __) => Widget002(),
     ),
     GoRoute(
       path: '/absorbpointer',
-      builder: (_, __) => WidgetAbsorbPointer03(),
+      builder: (_, __) => Widget003(),
     ),
     GoRoute(
       path: '/alertdialog',
-      builder: (_, __) => WidgetAlertDialog04(),
+      builder: (_, __) => Widget004(),
+    ),
+    GoRoute(
+      path: '/aling',
+      builder: (_, __) => Widget005(),
+    ),
+    GoRoute(
+      path: '/alertdialog',
+      builder: (_, __) => Widget005(),
+    ),
+    GoRoute(
+      path: '/animatealing',
+      builder: (_, __) => Widget006(),
+    ),
+    GoRoute(
+      path: '/animatedbuilder',
+      builder: (_, __) => Widget007(),
+    ),
+    GoRoute(
+      path: '/animatedcontainer',
+      builder: (_, __) => Widget008(),
+    ),
+    GoRoute(
+      path: '/animatedcrossfade',
+      builder: (_, __) => Widget009(),
+    ),
+    GoRoute(
+      path: '/animateddefaulttextstyle',
+      builder: (_, __) => Widget010(),
     ),
   ],
 );

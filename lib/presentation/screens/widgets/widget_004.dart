@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
-class WidgetAlertDialog04 extends StatelessWidget {
-  const WidgetAlertDialog04({super.key});
+class Widget004 extends StatelessWidget {
+  const Widget004({super.key});
 
   @override
   Widget build(BuildContext context) {

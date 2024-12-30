@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class WidgetAbsorbPointer03 extends StatelessWidget {
-  const WidgetAbsorbPointer03({super.key});
+class Widget003 extends StatelessWidget {
+  const Widget003({super.key});
 
   @override
   Widget build(BuildContext context) {

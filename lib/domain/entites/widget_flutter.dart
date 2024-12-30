@@ -23,7 +23,7 @@ final List<WidgetFlutter> widgetFlutter = [
   ),
   WidgetFlutter(
     title: 'AbsorbPointer',
-    type: '',
+    type: 'Absor',
     route: '/absorbpointer',
   ),
   WidgetFlutter(
@@ -35,5 +35,30 @@ final List<WidgetFlutter> widgetFlutter = [
     title: 'AboutDialog',
     type: 'Alert',
     route: '/aboutdialog',
-  )
+  ),
+  WidgetFlutter(
+    title: 'Aling',
+    type: 'Aling',
+    route: '/aling',
+  ),
+  WidgetFlutter(
+    title: 'AnimateAling',
+    type: 'Aling',
+    route: '/animatealing',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedContainer',
+    type: 'Aling',
+    route: '/animatedcontainer',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedCrossFade',
+    type: 'Aling',
+    route: '/animatedcrossfade',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedDefaultTextStyle',
+    type: 'Aling',
+    route: '/animateddefaulttextstyle',
+  ),
 ];
