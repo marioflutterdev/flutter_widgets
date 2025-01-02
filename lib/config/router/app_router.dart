@@ -52,5 +52,25 @@ final GoRouter router = GoRouter(
       path: '/animateddefaulttextstyle',
       builder: (_, __) => Widget010(),
     ),
+    GoRoute(
+      path: '/animatedicons',
+      builder: (_, __) => Widget011(),
+    ),
+    GoRoute(  
+      path: '/animatedlist',
+      builder: (_, __) => Widget012(),
+    ),
+    GoRoute(
+      path: '/animatedmodalbarrier',
+      builder: (_, __) => Widget013(),
+    ),
+    GoRoute(
+      path: '/animatedopacity',
+      builder: (_, __) => Widget014(),
+    ),
+    GoRoute(
+      path: '/animatedpadding',
+      builder: (_, __) => Widget015() ,
+    ),
   ],
 );

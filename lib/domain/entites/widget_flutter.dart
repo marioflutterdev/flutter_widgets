@@ -53,12 +53,37 @@ final List<WidgetFlutter> widgetFlutter = [
   ),
   WidgetFlutter(
     title: 'AnimatedCrossFade',
-    type: 'Aling',
+    type: 'Animation',
     route: '/animatedcrossfade',
   ),
   WidgetFlutter(
     title: 'AnimatedDefaultTextStyle',
-    type: 'Aling',
+    type: 'Animation',
     route: '/animateddefaulttextstyle',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedIcons',
+    type: 'Animation',
+    route: '/animatedicons',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedList',
+    type: 'Animation',
+    route: '/animatedlist',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedModalBarrier',
+    type: 'Animation',
+    route: '/animatedmodalbarrier',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedOpacity',
+    type: 'Animation',
+    route: '/animatedopacity',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedPadding',
+    type: 'Animation',
+    route: '/animatedpadding',
   ),
 ];

@@ -12,3 +12,10 @@ export 'widgets/widget_007.dart';
 export 'widgets/widget_008.dart';
 export 'widgets/widget_009.dart';
 export 'widgets/widget_010.dart';
+
+export 'widgets/widget_011.dart';
+export 'widgets/widget_012.dart';
+export 'widgets/widget_013.dart';
+export 'widgets/widget_014.dart';
+export 'widgets/widget_015.dart';
+
