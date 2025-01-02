@@ -11,7 +11,7 @@ class WidgetFlutter {
 }
 
 final List<WidgetFlutter> widgetFlutter = [
-  WidgetFlutter(
+  /* WidgetFlutter(
     title: 'AboutDialog',
     type: 'Information',
     route: '/aboutdialog',
@@ -85,5 +85,30 @@ final List<WidgetFlutter> widgetFlutter = [
     title: 'AnimatedPadding',
     type: 'Animation',
     route: '/animatedpadding',
+  ), */
+  WidgetFlutter(
+    title: 'AnimatedPhysicalModel',
+    type: 'Animation',
+    route: '/animatedphysicalmodel',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedPositioned',
+    type: 'Animation',
+    route: '/animatedpositioned',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedRotation',
+    type: 'Animation',
+    route: '/animatedrotation',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedSize',
+    type: 'Animation',
+    route: '/animatedsize',
+  ),
+  WidgetFlutter(
+    title: 'AnimatedSwitcher',
+    type: 'Animation',
+    route: '/animatedswitcher',
   ),
 ];

@@ -56,7 +56,7 @@ final GoRouter router = GoRouter(
       path: '/animatedicons',
       builder: (_, __) => Widget011(),
     ),
-    GoRoute(  
+    GoRoute(
       path: '/animatedlist',
       builder: (_, __) => Widget012(),
     ),
@@ -70,7 +70,27 @@ final GoRouter router = GoRouter(
     ),
     GoRoute(
       path: '/animatedpadding',
-      builder: (_, __) => Widget015() ,
+      builder: (_, __) => Widget015(),
+    ),
+    GoRoute(
+      path: '/animatedphysicalmodel',
+      builder: (_, __) => Widget016(),
+    ),
+    GoRoute(
+      path: '/animatedpositioned',
+      builder: (_, __) => Widget017(),
+    ),
+    GoRoute(
+      path: '/animatedrotation',
+      builder: (_, __) => Widget018(),
+    ),
+    GoRoute(
+      path: '/animatedsize',
+      builder: (_, __) => Widget019(),
+    ),
+    GoRoute(
+      path: '/animatedswitcher',
+      builder: (_, __) => Widget020(),
     ),
   ],
 );
