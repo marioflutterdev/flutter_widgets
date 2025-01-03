@@ -92,5 +92,25 @@ final GoRouter router = GoRouter(
       path: '/animatedswitcher',
       builder: (_, __) => Widget020(),
     ),
+    GoRoute(
+      path: '/appbar',
+      builder: (_, __) => Widget021(),
+    ),
+    GoRoute(
+      path: '/aspectratio',
+      builder: (_, __) => Widget022(),
+    ),
+    GoRoute(
+      path: '/autocomplete',
+      builder: (_, __) => Widget023(),
+    ),
+    GoRoute(
+      path: '/backdropfilter',
+      builder: (_, __) => Widget024(),
+    ),
+    GoRoute(
+      path: '/badge',
+      builder: (_, __) => Widget025(),
+    ),
   ],
 );

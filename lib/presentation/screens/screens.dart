@@ -26,3 +26,9 @@ export 'widgets/widget_018.dart';
 export 'widgets/widget_019.dart';
 export 'widgets/widget_020.dart';
 
+export 'widgets/widget_021.dart';
+export 'widgets/widget_022.dart';
+export 'widgets/widget_023.dart';
+export 'widgets/widget_024.dart';
+export 'widgets/widget_025.dart';
+

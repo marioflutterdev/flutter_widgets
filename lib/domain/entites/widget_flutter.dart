@@ -85,7 +85,7 @@ final List<WidgetFlutter> widgetFlutter = [
     title: 'AnimatedPadding',
     type: 'Animation',
     route: '/animatedpadding',
-  ), */
+  ), 
   WidgetFlutter(
     title: 'AnimatedPhysicalModel',
     type: 'Animation',
@@ -110,5 +110,31 @@ final List<WidgetFlutter> widgetFlutter = [
     title: 'AnimatedSwitcher',
     type: 'Animation',
     route: '/animatedswitcher',
+  ),*/
+
+  WidgetFlutter(
+    title: 'AppBar',
+    type: 'UI',
+    route: '/appbar',
+  ),
+  WidgetFlutter(
+    title: 'AspectRatio',
+    type: 'size',
+    route: '/aspectratio',
+  ),
+  WidgetFlutter(
+    title: 'AutoComplete',
+    type: 'Text',
+    route: '/autocomplete',
+  ),
+  WidgetFlutter(
+    title: 'BackdropFilter',
+    type: 'UI',
+    route: '/backdropfilter',
+  ),
+  WidgetFlutter(
+    title: 'Badge',
+    type: 'Animation',
+    route: '/badge',
   ),
 ];
