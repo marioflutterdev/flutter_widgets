@@ -11,7 +11,8 @@ class WidgetFlutter {
 }
 
 final List<WidgetFlutter> widgetFlutter = [
-  /* WidgetFlutter(
+   /*
+   WidgetFlutter(
     title: 'AboutDialog',
     type: 'Information',
     route: '/aboutdialog',
@@ -110,8 +111,7 @@ final List<WidgetFlutter> widgetFlutter = [
     title: 'AnimatedSwitcher',
     type: 'Animation',
     route: '/animatedswitcher',
-  ),*/
-
+  ),
   WidgetFlutter(
     title: 'AppBar',
     type: 'UI',
@@ -136,5 +136,57 @@ final List<WidgetFlutter> widgetFlutter = [
     title: 'Badge',
     type: 'Animation',
     route: '/badge',
+  ),
+  
+  WidgetFlutter(
+    title: 'Banner',
+    type: 'Banner',
+    route: '/banner',
+  ),
+  WidgetFlutter(
+    title: 'BlockSemantics',
+    type: 'BlockSemantics',
+    route: '/blocksemantics',
+  ),
+  WidgetFlutter(
+    title: 'BottomNavigationBar',
+    type: 'BottomNavigationBar',
+    route: '/bottomnavigationbar',
+  ),
+  WidgetFlutter(
+    title: 'BottomSheet',
+    type: 'BottomSheet',
+    route: '/bottomsheet',
+  ),
+  WidgetFlutter(
+    title: 'Builder',
+    type: 'Builder',
+    route: '/builder',
+  ),
+  */
+  WidgetFlutter(
+    title: 'Card',
+    type: 'Card',
+    route: '/card',
+  ),
+  WidgetFlutter(
+    title: 'Checkbox',
+    type: 'Checkbox',
+    route: '/checkbox',
+  ),
+  WidgetFlutter(
+    title: 'CheckboxListTile',
+    type: 'CheckboxListTile',
+    route: '/checkboxlisttile',
+  ),
+  WidgetFlutter(
+    title: 'Chip',
+    type: 'Chip',
+    route: '/chip',
+  ),
+  WidgetFlutter(
+    title: 'ChoiceChip',
+    type: 'ChoiceChip',
+    route: '/choicechip',
   ),
 ];

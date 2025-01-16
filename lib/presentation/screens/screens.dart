@@ -32,3 +32,15 @@ export 'widgets/widget_023.dart';
 export 'widgets/widget_024.dart';
 export 'widgets/widget_025.dart';
 
+export 'widgets/widget_026.dart';
+export 'widgets/widget_027.dart';
+export 'widgets/widget_028.dart';
+export 'widgets/widget_029.dart';
+export 'widgets/widget_030.dart';
+
+export 'widgets/widget_031.dart';
+export 'widgets/widget_032.dart';
+export 'widgets/widget_033.dart';
+export 'widgets/widget_034.dart';
+export 'widgets/widget_035.dart';
+

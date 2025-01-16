@@ -112,5 +112,45 @@ final GoRouter router = GoRouter(
       path: '/badge',
       builder: (_, __) => Widget025(),
     ),
+    GoRoute(
+      path: '/banner',
+      builder: (_, __) => Widget026(),
+    ),
+    GoRoute(
+      path: '/blocksemantics',
+      builder: (_, __) => Widget027(),
+    ),
+    GoRoute(
+      path: '/bottomnavigationbar',
+      builder: (_, __) => Widget028(),
+    ),
+    GoRoute(
+      path: '/bottomsheet',
+      builder: (_, __) => Widget029(),
+    ),
+    GoRoute(
+      path: '/builder',
+      builder: (_, __) => Widget030(),
+    ),
+    GoRoute(
+      path: '/card',
+      builder: (_, __) => Widget031(),
+    ),
+    GoRoute(
+      path: '/checkbox',
+      builder: (_, __) => Widget032(),
+    ),
+    GoRoute(
+      path: '/checkboxlisttile',
+      builder: (_, __) => Widget033(),
+    ),
+    GoRoute(
+      path: '/chip',
+      builder: (_, __) => Widget034(),
+    ),
+    GoRoute(
+      path: '/choicechip',
+      builder: (_, __) => Widget035(),
+    ),
   ],
 );
