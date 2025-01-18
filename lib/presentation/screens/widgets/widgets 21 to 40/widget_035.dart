@@ -8,9 +8,9 @@ class Widget035 extends StatefulWidget {
 }
 
 class _Widget035State extends State<Widget035> {
+  bool isSelected = false;
   @override
   Widget build(BuildContext context) {
-    bool isSelected = false;
     return Scaffold(
       body: Center(
         child: ChoiceChip(
