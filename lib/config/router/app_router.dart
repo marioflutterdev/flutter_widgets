@@ -152,5 +152,25 @@ final GoRouter router = GoRouter(
       path: '/choicechip',
       builder: (_, __) => Widget035(),
     ),
+    GoRoute(
+      path: '/circleAvatar',
+      builder: (_, __) => Widget036(),
+    ),
+    GoRoute(
+      path: '/circularprogressindicator',
+      builder: (_, __) => Widget037(),
+    ),
+    GoRoute(
+      path: '/clipoval',
+      builder: (_, __) => Widget038(),
+    ),
+    GoRoute(
+      path: '/clippath',
+      builder: (_, __) => Widget039(),
+    ),
+    GoRoute(
+      path: '/cliprect',
+      builder: (_, __) => Widget040(),
+    ),
   ],
 );

@@ -185,8 +185,34 @@ final List<WidgetFlutter> widgetFlutter = [
   ),
   WidgetFlutter(
     title: 'ChoiceChip',
-    type: '036',
+    type: '035',
     route: '/choicechip',
   ),
   */
+  WidgetFlutter(
+    title: 'CircleAvatar',
+    type: '036',
+    route: '/circleavatar',
+  ),
+  WidgetFlutter(
+    title: 'CircularProgressIndicator',
+    type: '037',
+    route: '/circularprogressindicator',
+  ),
+  WidgetFlutter(
+    title: 'ClipOval',
+    type: '038',
+    route: '/clipoval',
+  ),
+  WidgetFlutter(
+    title: 'ClipPath',
+    type: '039',
+    route: '/clippath',
+  ),
+  WidgetFlutter(
+    title: 'ClipRect',
+    type: '040',
+    route: '/cliprect',
+  ),
+
 ];
