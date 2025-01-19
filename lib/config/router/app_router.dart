@@ -172,5 +172,25 @@ final GoRouter router = GoRouter(
       path: '/cliprect',
       builder: (_, __) => Widget040(),
     ),
+    GoRoute(
+      path: '/cliprrect',
+      builder: (_, __) => Widget041(),
+    ),
+    GoRoute(
+      path: '/closebutton',
+      builder: (_, __) => Widget042(),
+    ),
+    GoRoute(
+      path: '/coloredbox',
+      builder: (_, __) => Widget043(),
+    ),
+    GoRoute(
+      path: '/colorfiltered',
+      builder: (_, __) => Widget044(),
+    ),
+    GoRoute(
+      path: '/constrainedbox',
+      builder: (_, __) => Widget045(),
+    ),
   ],
 );

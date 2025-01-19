@@ -44,3 +44,8 @@ export 'widgets/widgets 21 to 40/widget_038.dart';
 export 'widgets/widgets 21 to 40/widget_039.dart';
 export 'widgets/widgets 21 to 40/widget_040.dart';
 
+export 'widgets/widgets 41 to 60/widget_041.dart';
+export 'widgets/widgets 41 to 60/widget_042.dart';
+export 'widgets/widgets 41 to 60/widget_043.dart';
+export 'widgets/widgets 41 to 60/widget_044.dart';
+export 'widgets/widgets 41 to 60/widget_045.dart';

@@ -11,7 +11,7 @@ class WidgetFlutter {
 }
 
 final List<WidgetFlutter> widgetFlutter = [
-   /*
+  /*
    WidgetFlutter(
     title: 'AboutDialog',
     type: '001',
@@ -188,7 +188,6 @@ final List<WidgetFlutter> widgetFlutter = [
     type: '035',
     route: '/choicechip',
   ),
-  */
   WidgetFlutter(
     title: 'CircleAvatar',
     type: '036',
@@ -204,6 +203,7 @@ final List<WidgetFlutter> widgetFlutter = [
     type: '038',
     route: '/clipoval',
   ),
+  */
   WidgetFlutter(
     title: 'ClipPath',
     type: '039',
@@ -214,5 +214,29 @@ final List<WidgetFlutter> widgetFlutter = [
     type: '040',
     route: '/cliprect',
   ),
-
+  WidgetFlutter(
+    title: 'ClipRRect',
+    type: '041',
+    route: '/cliprrect',
+  ),
+  WidgetFlutter(
+    title: 'CloseButton',
+    type: '042',
+    route: '/closebutton',
+  ),
+  WidgetFlutter(
+    title: 'ColoredBox',
+    type: '043',
+    route: '/coloredbox',
+  ),
+  WidgetFlutter(
+    title: 'ColorFiltered',
+    type: '044',
+    route: '/colorfiltered',
+  ),
+  WidgetFlutter(
+    title: 'ConstrainedBox',
+    type: '045',
+    route: '/constrainedbox',
+  ),
 ];
